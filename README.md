@@ -4,5 +4,3 @@ Please feel free to improve upon the code.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aakamat/data-analysis.git/HEAD)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/aakamat/data-analysis.git/HEAD
